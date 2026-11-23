@@ -16,7 +16,7 @@ timezone: America/Vancouver
 
 title: zoey.devLog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Learning, building, and growing as a developer:) # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Learning, building, and growing as a developer.
