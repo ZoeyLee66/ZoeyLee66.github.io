@@ -79,7 +79,7 @@ pageviews:
 # and there will be a toggle to switch the theme between dark and light
 # on the bottom left of the sidebar.
 #
-# Available options:
+# ilable options:
 #
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
@@ -94,7 +94,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://avatars.githubusercontent.com/u/180693757?v=4"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
